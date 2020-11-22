@@ -21,5 +21,4 @@ chmod +x autotest.sh
 ```
 
 #### Você poderia dar uma demonstração do funcionamento?
-Claro!<br />
 ![](demo.gif)
