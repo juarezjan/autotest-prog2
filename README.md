@@ -4,7 +4,7 @@
 - Mostra uma mensagem de alerta caso alguma saída esteja com problemas.
 
 #### O script funciona mesmo que eu ainda não tenha implementado todos os itens do trabalho?
-- Sim! O script reconhece os itens que você implementou e compara apenas tais itens com os testes públicos.
+- Sim! O script reconhece os itens que você implementou e compara apenas esses com os testes públicos.
 
 #### E como utilizar?
 1. Baixe o script para a mesma pasta onde está o seu programa. Você pode clicar [neste link](https://raw.githubusercontent.com/juarezjan/prog2_trabalho_autotest/master/autotest.sh) com o botão direito e depois em *Salvar como...*
