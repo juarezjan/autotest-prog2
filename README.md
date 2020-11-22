@@ -1,4 +1,4 @@
-#### O que faz este script?
+#### O que faz esse script?
 - Roda seu programa uma vez para cada arquivo de teste.
 - Compara (via ```diff``` ) as saídas do seu programa com as saídas fornecidas para teste.
 - Mostra uma mensagem de alerta caso alguma saída esteja com problemas.
