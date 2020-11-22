@@ -7,7 +7,7 @@
 - Sim! O script reconhece os itens que você implementou e compara apenas tais itens com os testes públicos.
 
 #### E como utilizar?
-1. Baixe o script para a mesma pasta onde está o seu programa. Você pode clicar [neste link](https://raw.githubusercontent.com/juarezjan/prog2_trabalho_autotest/master/autotest.sh) com o botão direito e depois em *Salvar como...*.
+1. Baixe o script para a mesma pasta onde está o seu programa. Você pode clicar [neste link](https://raw.githubusercontent.com/juarezjan/prog2_trabalho_autotest/master/autotest.sh) com o botão direito e depois em *Salvar como...*
 2. Edite o "nome_do_arquivo" que está na sexta linha do script e substitua pelo nome do seu programa. Essa é a única modificação que você precisará fazer.
 3. Torne o script executável com o seguinte comando:
 ```
