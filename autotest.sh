@@ -3,7 +3,7 @@
 for file in testes_publicos/*
 do
     if [ -f "$file" ]; then
-        ./covid < "$file"
+        ./nome_do_arquivo < "$file"
     fi
 done
 
