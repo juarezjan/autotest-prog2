@@ -7,7 +7,7 @@ do
     fi
 done
 
-for item in teste[1-5]/*
+for item in teste[1-9]/*
 do
     if [ -f "$item" ]; then
         dir="$(dirname "$item")"
@@ -17,7 +17,7 @@ do
     fi
 done
 
-for diff_item in teste[1-5]/diff/*
+for diff_item in teste[1-9]/diff/*
 do
     dir="$(dirname "$diff_item")"
     file="$(basename "$diff_item")"
